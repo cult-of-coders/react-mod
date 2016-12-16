@@ -1,0 +1,24 @@
+{
+  "name": "react-mod",
+  "version": "1.0.0",
+  "description": "ReactMod is the complement of the Component, separating ui logic from the rest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-mod",
+    "component",
+    "separation",
+    "of",
+    "concerns",
+    "separating",
+    "ui",
+    "logic"
+  ],
+  "author": "Theodor Diaconu",
+  "license": "MIT",
+  "dependencies": {
+    "event-emitter": "^0.3.4"
+  }
+}
